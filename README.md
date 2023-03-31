@@ -15,6 +15,10 @@ _______________________________________________
 
 I'm a passionate BackEnd developer from India 🇮🇳
 
+<div align="center">
+  <img height="550" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
 **About me**
 
 - 💼 BackEnd Engineer in SpringBoot.
@@ -25,18 +29,9 @@ I'm a passionate BackEnd developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-<div align="center">
-  <img height="30" alt="springboot" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*CIHazLUXhBCxiho2mE2glQ.png"> 
-  <img height="30" alt="java" src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png">
-  <img height="30" alt="sql" src="https://w7.pngwing.com/pngs/354/683/png-transparent-logo-mysql-database-phpmyadmin-oracle-sql-logo-blue-text-logo-thumbnail.png">
-  </div>    
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
 
 <div style="border-radius:30%" align="center">
   <a href="https://www.linkedin.com/in/hrishikesh-kalekinge/" target="_blank">
@@ -47,31 +42,8 @@ I'm a passionate BackEnd developer from India 🇮🇳
   </a>
 </div>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HH&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HHrisHikesHH&show_icons=true&locale=en&layout=compact" alt="hrishikeshkalekinge" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HHrisHikesHH&" alt="hrishikeshkalekinge" /></p>
 </div>
-
-###
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
