@@ -21,11 +21,11 @@ _______________________________________________
 
 **About me**
 
-- 💼 BackEnd Engineer in SpringBoot.
+- 💼 BackEnd Engineer in SpringBoot/Node.
 
-- 🖥️ Interested in Java has Developed Java Projects in DSA and Design Pattern.
+- 💼 FrontEnd Engineer in React.
 
-- 📈 Built RestWhatsAppClone, ParkingLot, SnakeNLadder.
+- 🖥️ Interested in Full stack we project has Developed MERN project, React - SprongBoot projects 
 
 - 🤙🏻 Feel free to connect
 
